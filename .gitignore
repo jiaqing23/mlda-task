@@ -1,0 +1,4 @@
+robot_camera/
+robot_camera_annotation/
+*.pth
+.ipynb_checkpoints/
